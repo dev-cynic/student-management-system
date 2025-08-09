@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+}
+
+.vh100 {
+    height: 100%;
+}
+
+.heading {
+    width: 50%;
+    background-color: #B7B1F2;
+}
+
+.heading > h1 , .headIcon {
+    color: white;
+}
+
+.heading > h3 {
+    color: #FFDCCC;
+}
+
+.form-container {
+    width: 50%;
+}
+
+
