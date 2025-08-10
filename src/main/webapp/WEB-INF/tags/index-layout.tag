@@ -23,7 +23,7 @@
             <h1>Student Management System</h1>
             <h3>Powered by CodeHub</h3>
         </div>
-        <div class="form-container d-flex align-items-center justify-content-center">
+        <div class="form-container d-flex flex-column align-items-center justify-content-center">
             <jsp:doBody></jsp:doBody>
         </div>
     </div>
